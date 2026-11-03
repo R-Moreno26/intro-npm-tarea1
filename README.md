@@ -1,16 +1,20 @@
-# React + Vite
+# Tarea 1 de npm
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Captura de pantalla con react-confetti:
+![react-confetti](./images/Imagen1.png)
 
-Currently, two official plugins are available:
+Captura de pantalla del package.json:
+![package.json](./images/Imagen2.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Captura de pantalla de canvas-confetti:
+![canvas-confetti](./images/Imagen3.png)
 
-## React Compiler
+Captura de pantalla de la escena 3D:
+![escena 3D](./images/Imagen4.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Si la carpeta `node_modules/` está excluida, ¿borrar una dependencia hace alguna acción sobre el repositorio? ¿Cuál?
 
-## Expanding the Oxlint configuration
+Borrar una dependencia no afecta al repositorio, ya que está excluida. Solo borra la dependencia de manera local.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Enlace a la web desplegada de GitHub Pages:
+https://r-moreno26.github.io/intro-npm-tarea1/
