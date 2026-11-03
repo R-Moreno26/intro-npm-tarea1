@@ -3,7 +3,11 @@ import heroImg from './assets/hero.png'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import './App.css'
+<<<<<<< HEAD
 import confetti from 'canvas-confetti'
+=======
+import PlanetScene from './PlanetScene'
+>>>>>>> three
 
 function App() {
   const [count, setCount] = useState(0)
@@ -44,6 +48,8 @@ function App() {
         Lanzar confetti
         </button>
       </section>
+
+      <PlanetScene />
 
       <div className="ticks"></div>
 
