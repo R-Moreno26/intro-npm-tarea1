@@ -1,0 +1,30 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Esta carpeta se incluye en el .gitignore porque ocuparía un espacio innecesario ya que
+# al ejecutar el comando npm install ya se instalarán todas las librerías y dependencias necesarias.
+node_modules
+
+# Esta carpeta se incluye en el .gitignore porque contiene los archivos generados al compilar o construir un proyecto.
+
+dist
+
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
