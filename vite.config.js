@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/intro-npm-tarea1/',
+  base: '/intro-npm-repo-aparte/',
 })

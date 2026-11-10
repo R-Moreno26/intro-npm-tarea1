@@ -17,4 +17,4 @@ Si la carpeta `node_modules/` está excluida, ¿borrar una dependencia hace algu
 Borrar una dependencia no afecta al repositorio, ya que está excluida. Solo borra la dependencia de manera local.
 
 Enlace a la web desplegada de GitHub Pages:
-https://r-moreno26.github.io/intro-npm-tarea1/
+https://github.com/R-Moreno26/intro-npm-repo-aparte
